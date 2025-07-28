@@ -1,0 +1,1 @@
+Weapon=(ClassName=Z3ROBoker.Boker,PickupClassName=Z3ROBoker.BokerPickup,AttachmentClassName=Z3ROBoker.BokerAttachment,FriendlyName=Z3ROBoker.Boker.ItemName,Description=Z3ROBoker.Boker.Description,FallbackName="Boker",FallbackDesc="Z3RO's Boker Knife")
